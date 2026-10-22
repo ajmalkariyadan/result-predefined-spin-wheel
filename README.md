@@ -1,25 +1,36 @@
-# Spin Studio
+# 🎯 Result-Predefined Spin Wheel
 
-## Run locally
-1. Open this folder in VS Code (the folder containing `package.json`).
-2. Run `npm.cmd install` in Windows PowerShell.
-3. Run `npm.cmd run dev`.
-4. Open the localhost URL shown by Vite.
+A configurable spin wheel application featuring **presettable outcomes** and an administrative interface for controlling the results.
 
-## Features
-- Responsive animated spin wheel with 5/8/12-second durations
-- Bulk-add names, optional duplicate entries
-- Weighted selection with editable weights and visible percentage chances
-- Sequential multiple-winner rounds (one spin per winner); optional winner removal before the next spin
-- Undo, spin history, reset session
-- Color themes, wheel size, text size, and center label customization
-- Save/load wheel presets in this browser's local storage
-- Download a PNG result poster
-- Winner celebration animation and multi-note sound effect
-- Hidden-menu demo admin login and spin-number scheduling
-- Presentation mode and keyboard shortcuts
-- Footer credit and developer LinkedIn contact
+Unlike a conventional random spin wheel, this application allows authorized configuration of predetermined outcomes through an admin console.
 
-## Notes
-- Saved wheels stay in the current browser/device; they are not exported as files or synced.
-- Admin password `spinadmin` and scheduled outcomes are client-side demo features, not secure for high-stakes draws.
+## ✨ Key Features
+
+* 🎡 **Interactive Spin Wheel** — A visual, interactive wheel experience.
+* 🎯 **Presettable Results** — Configure the outcome a spin will produce.
+* ⚙️ **Admin Console** — Manage and configure wheel outcomes.
+* 🎨 **Custom Interface** — Designed for a straightforward user experience.
+* 🌐 **Live Deployment** — Hosted using Firebase.
+
+## 🛠️ Tech Stack
+
+* React
+* JavaScript
+* CSS
+* Vite
+* Firebase Hosting
+
+## 🚀 Live Demo
+
+[Open the Live Application](https://spinstudiowheel.web.app)
+
+## 💡 Project Purpose
+
+This project explores configurable interactive experiences, UI development, and application logic through a spin wheel interface with administrator-controlled outcomes.
+
+## 👨‍💻 Author
+
+**Ajmal Kariyadan**
+
+* GitHub: [@ajmalkariyadan](https://github.com/ajmalkariyadan)
+* LinkedIn: [Connect with me](https://www.linkedin.com/in/ajmalkariyadan)
