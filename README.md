@@ -34,3 +34,17 @@ This project explores configurable interactive experiences, UI development, and 
 
 * GitHub: [@ajmalkariyadan](https://github.com/ajmalkariyadan)
 * LinkedIn: [Connect with me](https://www.linkedin.com/in/ajmalkariyadan)
+
+  ---
+
+## 📸 Application Screenshots
+
+### 🎡 Spin Wheel Interface
+![Spin Wheel Interface](spin-wheel.png)
+
+### ⚙️ Admin Console
+![Admin Console](admin-console.png)
+
+### 🔐 Admin Login
+![Admin Login](admin-login.png)
+
